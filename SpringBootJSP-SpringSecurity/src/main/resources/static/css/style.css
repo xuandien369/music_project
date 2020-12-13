@@ -1,0 +1,98 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#controldetails {
+	margin-left: 112px;
+}
+
+#controldetails i {
+	margin-left: 10px;
+}
+
+#control {
+	margin-left: 65px;
+}
+
+#control i {
+	margin-left: 10px;
+}
+
+.listSongFE a {
+	text-decoration: none;
+}
+
+.listSongFE {
+	margin-top: 45px;
+}
+
+.currentSong {
+	font-weight: bold;
+	color: greenyellow;
+}
+
+.header {
+	width: 100%;
+	height: 80px;
+	margin-bottom: 48px;
+	margin: 0 145px;
+}
+
+.bodycontent {
+	margin: 0 145px;
+	margin-top: 20px;
+}
+
+.ulheader {
+	list-style-type: none;
+	display: flex;
+	padding-top: 20px;
+	.
+}
+
+.ulheader a {
+	text-decoration: none;
+	color: lightskyblue;
+}
+
+.logoheader {
+	font-size: 28px;
+	margin-left: 20px;
+}
+
+.featureheader {
+	display: flex;
+	font-size: 20px;
+	margin-left: 450px;
+	color: lightskyblue;
+}
+
+.featureheader li {
+	padding-right: 20px;
+}
+
+.hrne {
+	border: none;
+	background-color: grey;
+}
+
+.search {
+	display: flex;
+	margin-left: 50px;
+}
+
+.ListSongAll a {
+	text-decoration: none;
+	font-size: 25px;
+}
+.hello h6{
+	margin-right: 20px;
+}
+.hello{
+	display: flex;
+	margin-right: 10px;
+}
+.hidden{
+	display: none;
+}
